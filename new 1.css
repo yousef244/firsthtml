@@ -1,0 +1,36 @@
+mark 
+{
+	  background-color: red;
+      color: black;
+}
+mark1 
+{
+	  background-color: yellow;
+      color: black;
+}
+mark2 
+{
+	  background-color: green;
+      color: black;
+}
+body 
+{
+	font-family:Arial;
+	background-image: url('farah.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;
+	
+}
+.mark3 
+{
+	  background-color: yellow;
+      color: black;
+}
+.blue
+{
+	color:blue;
+}
+img:hover
+{
+	box-shadow: 0 0 2px;
+}
